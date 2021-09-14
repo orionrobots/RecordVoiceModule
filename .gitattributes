@@ -1,0 +1,5 @@
+* text=auto
+
+# File static types
+
+*.md=text

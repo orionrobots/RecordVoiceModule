@@ -2,6 +2,7 @@ RecordVoiceModule
 =================
 
 Simple Recording Shell For The VoiceModule V2
+http://www.elechouse.com/elechouse/images/product/Voice%20Recognition%20Module/Manual.pdf
 
 Required
 --------
